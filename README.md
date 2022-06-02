@@ -2,6 +2,7 @@
 - 👀 I’m interested in software delvelopment, data science, AI, gravitational waves, mathematics and theoretical physics
 - 🌱 I’m currently learning how to guthub properly, applications of Python, data science, numerical relativity and machine learning
 - 📫 Email me here if you want to reach out
+- This is the way.
 
 <!---
 Leigh-Herman/Leigh-Herman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
